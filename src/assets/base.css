@@ -1,0 +1,57 @@
+.roboto-400 {
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.roboto-500 {
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.roboto-600 {
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.roboto-700 {
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.header {
+  background: var(--color-layout-primary);
+  padding: 16px;
+  display: flex;
+  width: 100%;
+}
+
+.app-logo {
+  width: 100px;
+  height: auto;
+}
+
+:root {
+  --ion-background-color: rgba(239, 239, 239, 1);
+  --ion-color-primary: #00204c;
+}
+
+:root {
+  --color-layout-primary: #00204c;
+}

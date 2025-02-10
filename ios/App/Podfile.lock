@@ -1,0 +1,73 @@
+PODS:
+  - Alamofire (5.10.2)
+  - Capacitor (6.2.0):
+    - CapacitorCordova
+  - CapacitorApp (6.0.2):
+    - Capacitor
+  - CapacitorCommunityHttp (1.4.1):
+    - Capacitor
+  - CapacitorCommunitySafeArea (6.0.0-alpha.8):
+    - Capacitor
+  - CapacitorCordova (6.2.0)
+  - CapacitorDialog (6.0.2):
+    - Capacitor
+  - CapacitorStatusBar (6.0.2):
+    - Capacitor
+  - CapgoCapacitorUpdater (6.14.10):
+    - Alamofire
+    - Capacitor
+    - SSZipArchive (= 2.4.3)
+    - Version
+  - SSZipArchive (2.4.3)
+  - Version (0.8.0)
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorApp (from `../../node_modules/@capacitor/app`)"
+  - "CapacitorCommunityHttp (from `../../node_modules/@capacitor-community/http`)"
+  - "CapacitorCommunitySafeArea (from `../../node_modules/@capacitor-community/safe-area`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorDialog (from `../../node_modules/@capacitor/dialog`)"
+  - "CapacitorStatusBar (from `../../node_modules/@capacitor/status-bar`)"
+  - "CapgoCapacitorUpdater (from `../../node_modules/@capgo/capacitor-updater`)"
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SSZipArchive
+    - Version
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorApp:
+    :path: "../../node_modules/@capacitor/app"
+  CapacitorCommunityHttp:
+    :path: "../../node_modules/@capacitor-community/http"
+  CapacitorCommunitySafeArea:
+    :path: "../../node_modules/@capacitor-community/safe-area"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorDialog:
+    :path: "../../node_modules/@capacitor/dialog"
+  CapacitorStatusBar:
+    :path: "../../node_modules/@capacitor/status-bar"
+  CapgoCapacitorUpdater:
+    :path: "../../node_modules/@capgo/capacitor-updater"
+
+SPEC CHECKSUMS:
+  Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
+  Capacitor: 05d35014f4425b0740fc8776481f6a369ad071bf
+  CapacitorApp: e1e6b7d05e444d593ca16fd6d76f2b7c48b5aea7
+  CapacitorCommunityHttp: 7eba71da94e070e37a26a60483350285a33e3903
+  CapacitorCommunitySafeArea: ceb857af8cc8bb3cdaa5d789613c83c43eb1ac39
+  CapacitorCordova: b33e7f4aa4ed105dd43283acdd940964374a87d9
+  CapacitorDialog: 25878ac91f5ffaca62ce78884b6e1473e75596e1
+  CapacitorStatusBar: b16799a26320ffa52f6c8b01737d5a95bbb8f3eb
+  CapgoCapacitorUpdater: b9c86741c31a99fd198201f6d84e378ce01cba8a
+  SSZipArchive: fe6a26b2a54d5a0890f2567b5cc6de5caa600aef
+  Version: de5907f2c5d0f3cf21708db7801d1d5401139486
+
+PODFILE CHECKSUM: 4facb3eabaa6c5da11075a7c98def49c9f954607
+
+COCOAPODS: 1.16.2
